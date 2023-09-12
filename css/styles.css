@@ -542,7 +542,7 @@ button {
 
 
 /* Modal Window */
-.modal-window-container {
+/* .modal-window-container {
     position: fixed;
     top: 0;
     left: 0;
@@ -671,4 +671,4 @@ button {
 
 .modal-window-form-container-comment-textarea:focus {
     border-color: #4D5AE5;
-}
+} */
