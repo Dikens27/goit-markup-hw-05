@@ -487,6 +487,10 @@ button {
     fill: var(--color-cloud);
 }
 
+.footer-subscribe {
+    margin-left: auto;
+}
+
 .footer-subscribe-form {
     display: flex;
     gap: 24px;
