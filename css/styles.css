@@ -710,7 +710,7 @@ button {
     fill: transparent;
 }
 
-.modal-window-form-container-checkbox-input:checked+.modal-window-form-container-checkbox-label-span {
+.modal-window-form-container-checkbox-input:checked+.modal-window-form-container-checkbox-label > .modal-window-form-container-checkbox-label-span {
     background-color: var(--color-ocean);
     border: none;
     fill: var(--color-cloud)
